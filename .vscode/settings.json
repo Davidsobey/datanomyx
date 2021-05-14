@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "dtnx-glue-test",
+            "driver": "PostgreSQL",
+            "name": "aws-glue-test",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "dtnx-glue-test.cvxdmhhglaj1.us-east-1.rds.amazonaws.com",
+            "username": "dsobey"
+        }
+    ]
+}
