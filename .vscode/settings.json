@@ -10,5 +10,8 @@
             "server": "dtnx-glue-test.cvxdmhhglaj1.us-east-1.rds.amazonaws.com",
             "username": "dsobey"
         }
+    ],
+    "cSpell.words": [
+        "Datanomyx"
     ]
 }
